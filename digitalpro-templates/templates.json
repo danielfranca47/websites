@@ -1,0 +1,10 @@
+[
+  {
+    "id": "contabilidade-modelo-01",
+    "niche": "contabilidade",
+    "name": "Modelo 01 - Institucional Premium",
+    "path": "niches/contabilidade/modelo-01-institucional",
+    "status": "ready",
+    "description": "Site institucional premium para escritório de contabilidade, com foco em apresentação de serviços, confiança e captação de contatos."
+  }
+]
